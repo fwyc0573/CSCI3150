@@ -95,6 +95,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | [assignment-two](https://classroom.github.com/a/ECgb6vfZ) | 18:00:00 p.m., Mon, Nov 4th | Jianqiang & Yuetao |
 | [assignment-two-grace-token](https://classroom.github.com/a/16BukB_p) | 18:00:00 p.m., Tue, Nov 5th | Jianqiang & Yuetao |
 | [assignment-three](https://classroom.github.com/a/QVfUU-LW)  | 18:00:00 p.m., Mon, Nov 18th | Kaiwen |
+| [assignment-four](https://classroom.github.com/a/CC6luaQm)  | 18:00:00 p.m., Mon, Dec 9th | Yitao & Yicheng |
 
 ## Course policies
 - Assignments: 
